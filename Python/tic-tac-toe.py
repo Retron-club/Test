@@ -38,7 +38,7 @@ game_is_still_going = True  # To check if the game is still going on
 
 current_player = "X"  #  To store the current player
   
-# Display the board with updated user input
+# Display the board with updated user input mn
 def display_board():
     print("\n")
 
